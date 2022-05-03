@@ -1,0 +1,8 @@
+{
+  "name": "web3-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/papadopan/web3-test.git",
+  "author": "papadopan <antonios.papadopan@gmail.com>",
+  "license": "MIT"
+}
