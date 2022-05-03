@@ -4,5 +4,18 @@
   "main": "index.js",
   "repository": "https://github.com/papadopan/web3-test.git",
   "author": "papadopan <antonios.papadopan@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^17.0.31",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.5",
+    "hardhat": "^2.9.3",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
 }
